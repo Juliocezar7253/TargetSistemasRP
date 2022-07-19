@@ -1,0 +1,14 @@
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\bin\Debug\netcoreapp3.1\SomaTeste.exe
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\bin\Debug\netcoreapp3.1\SomaTeste.deps.json
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\bin\Debug\netcoreapp3.1\SomaTeste.runtimeconfig.json
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\bin\Debug\netcoreapp3.1\SomaTeste.runtimeconfig.dev.json
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\bin\Debug\netcoreapp3.1\SomaTeste.dll
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\bin\Debug\netcoreapp3.1\SomaTeste.pdb
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.AssemblyInfoInputs.cache
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.AssemblyInfo.cs
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.dll
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.pdb
+C:\Users\julio\Documents\MyProjects\TargetSistemas\SomaTeste\SomaTeste\obj\Debug\netcoreapp3.1\SomaTeste.genruntimeconfig.cache
